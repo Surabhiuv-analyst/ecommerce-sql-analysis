@@ -61,5 +61,10 @@ Which customer segments are most valuable?
 
 - [ ] Complete Level 5 portfolio-level analysis
 - [ ] Build a Tableau or Power BI dashboard to visualise key findings
-- [ ]Add screenshots of query results to this repository
 
+
+## Connect with me 
+LinkedIn: www.linkedin.com/in/surabhi-kishore-uv
+
+
+Email: Surabhikishore8@gmail.com
